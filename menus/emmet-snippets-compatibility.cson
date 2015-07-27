@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle emmet-snippets-compatibility'
+      'command': 'emmet-snippets-compatibility:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'emmet-snippets-compatibility'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'emmet-snippets-compatibility:toggle'
+        }
+      ]
+    ]
+  }
+]

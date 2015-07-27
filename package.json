@@ -1,0 +1,20 @@
+{
+  "name": "emmet-snippets-compatibility",
+  "main": "./lib/emmet-snippets-compatibility",
+  "version": "0.0.0",
+  "description": "Gives Atom snippets primary tab function over emmet, adds emmet php compatibility",
+  "keywords": [
+      "emmet",
+      "peterjohnhunt",
+      "compatibility",
+      "snippets",
+      "php"
+  ],
+  "repository": "https://github.com/peterjohnhunt/emmet-snippets-compatibility",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
