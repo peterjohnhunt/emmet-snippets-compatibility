@@ -2,7 +2,7 @@
   "name": "emmet-snippets-compatibility",
   "main": "./lib/emmet-snippets-compatibility",
   "version": "0.0.1",
-  "description": "Gives Atom snippets primary tab function over emmet, adds emmet php compatibility",
+  "description": "Gives Atom autocomplete-snippets primary tab function over emmet. Adds emmet php compatibility",
   "keywords": [
     "emmet",
     "peterjohnhunt",
