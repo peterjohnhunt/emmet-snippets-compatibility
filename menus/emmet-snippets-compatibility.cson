@@ -2,7 +2,7 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle emmet-snippets-compatibility'
+      'label': 'Toggle Emmet Snippets Compatibility'
       'command': 'emmet-snippets-compatibility:toggle'
     }
   ]
@@ -10,7 +10,7 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'emmet-snippets-compatibility'
+      'label': 'Emmet Snippets Compatibility'
       'submenu': [
         {
           'label': 'Toggle'
