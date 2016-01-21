@@ -10,6 +10,9 @@
 'atom-text-editor[data-grammar="text html php"]:not([mini])':
   'tab': 'emmet:expand-abbreviation-with-tab'
 
+'atom-text-editor:not([mini])':
+  'shift-space': 'emmet:expand-abbreviation'
+
 'atom-text-editor.autocomplete-active:not([mini])':
   'tab': 'autocomplete-plus:confirm'
 
