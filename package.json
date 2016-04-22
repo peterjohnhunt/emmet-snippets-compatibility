@@ -1,6 +1,6 @@
 {
   "name": "emmet-snippets-compatibility",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Gives Atom autocomplete-snippets primary tab function over emmet. Adds emmet php compatibility",
   "keywords": [
     "emmet",
