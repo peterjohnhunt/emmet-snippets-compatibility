@@ -16,5 +16,5 @@
 'atom-text-editor.autocomplete-active:not([mini])':
   'tab': 'autocomplete-plus:confirm'
 
-'.pane .editor:not(.mini)':
+'.atom-pane .atom-text-editor:not(.mini)':
   'tab': 'snippets:expand'
